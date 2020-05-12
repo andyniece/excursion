@@ -1,0 +1,81 @@
+/* Universal Styles */
+body{
+    background-color: black;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px;
+    
+
+}
+
+
+/* Header Secion */
+
+.tagline{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    Font-size: 50px;
+    color: White;
+    text-align: center;
+    
+}
+
+/* Link Section */
+.comingsoon{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Video Section */
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    
+}
+
+/* Info Secion */
+span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    display: block;
+    padding: 20px 0px;
+}
+
+.infotext{
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.bottomtext{
+    color: gray;
+    font-size: 21px;
+}
+
+/* Coming Soon Section */
+
+.phone{
+    margin-top: 10px;
+}
+
+
+/* Footer */
+
+#footer{
+    display: inline;
+}
+
+.copyright{
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
+.fa{
+    color: gray;
+}
